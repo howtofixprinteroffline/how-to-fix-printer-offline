@@ -14,7 +14,7 @@ In this article, we will explain what causes the printer offline error and how y
    <a href="https://jivo.chat/KlZSRejpBm" target="_blank" style="background:red;color:white;padding:12px 20px;text-decoration:none;border-radius:5px;font-weight:bold;">
    Click Here: Get the Live Printer Support </a>
 
-<br/>
+Get instant help for printer problems.
 
 What Does Printer Offline Mean?
 -------------------------------
