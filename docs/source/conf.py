@@ -4,14 +4,6 @@
 
 # -- Options for HTML output --
 
-html_theme = "alabaster"
-
-html_meta = {
-    "google-site-verification": "cbJXUbg3q6lAdJ8EHe_S1IrpeWpZqs_DNsdJe9W2UxY"
-}
-
-# -- Options for HTML output --
-
 html_theme = 'alabaster'
 
 html_js_files = [
