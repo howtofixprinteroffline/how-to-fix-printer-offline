@@ -1,8 +1,6 @@
 Printer Offline – Causes and How to Fix It
 ==========================================
 
-<meta name="google-site-verification" content="cbJXUbg3q6lAdJ8EHe_S1IrpeWpZqs_DNsdJe9W2UxY" />
-
 A printer offline issue is one of the most common problems faced by users when printing documents. 
 When a printer shows an offline status, it means the computer cannot communicate with the printer. 
 As a result, print jobs remain stuck in the queue and documents do not print. 
