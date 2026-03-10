@@ -9,6 +9,7 @@ html_theme = 'alabaster'
 html_meta = {
     "google-site-verification": "cbJXUbg3q6lAdJ8EHe_S1IrpeWpZqs_DNsdJe9W2UxY"
 }
+<meta name="google-site-verification" content="cbJXUbg3q6lAdJ8EHe_S1IrpeWpZqs_DNsdJe9W2UxY" />
 
 html_js_files = [
     'https://code.jivosite.com/widget/cTI6R8IfQH'
