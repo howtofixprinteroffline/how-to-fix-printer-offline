@@ -6,10 +6,6 @@ When a printer shows an offline status, it means the computer cannot communicate
 As a result, print jobs remain stuck in the queue and documents do not print. 
 This problem can occur with any printer brand such as Canon, HP, Brother, or Epson.
 
-.. raw:: html
-
-   <meta name="google-site-verification" content="cbJXUbg3q6lAdJ8EHe_S1IrpeWpZqs_DNsdJe9W2UxY" />
-
 The good news is that most printer offline issues are easy to fix with simple troubleshooting steps. 
 In this article, we will explain what causes the printer offline error and how you can fix it quickly.
 
