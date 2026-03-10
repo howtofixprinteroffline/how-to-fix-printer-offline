@@ -11,8 +11,6 @@ html_js_files = [
 ]
 # -- Options for HTML output --
 
-<meta name="google-site-verification" content="cbJXUbg3q6lAdJ8EHe_S1IrpeWpZqs_DNsdJe9W2UxY" />
-
 project = 'Lumache'
 copyright = '2021, Graziella'
 author = 'Graziella'
